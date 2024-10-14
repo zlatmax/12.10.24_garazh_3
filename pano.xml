@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" start="node3" apprev="18105">
+  <panorama id="node3">
+    <input leveltilesize="510" overlap="1" levelingpitch="0" height="1944" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" width="1944" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" preload="0" height="1944" width="1944"/>
+      <level predecode="0" preload="0" height="972" width="972"/>
+      <level predecode="1" preload="1" height="486" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="270" scaletofit="1" tilt="90" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node3" heading="0" description="" author="" source="" copyright="" title="SAMSUNG" info="" longitude="59.652778" latitude="55.192778" customnodeid="" datetime="12.10.2024 18:05" comment="" tags="Pano2VR6"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" background="1" wordwrap="1" textcolor="0x000000" height="20" borderalpha="1" enabled="1" backgroundcolor="0xffffff" width="180" textalpha="1" borderradius="1" backgroundalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="90" enabled="1" zoomfov="20" zoomin="0" softedge="0" zoomout="0"/>
+    <autorotate delay="5.00" useanimation="0" speed="0.020" nodefilter="" startloaded="0" noderandom="1" enabled="1" nodedelay="0.00" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" speedwheel="1" contextfullscreen="1" rubberband="0" contextvr="1" simulatemass="1" contextprojections="0" hideabout="0" sensitivity="8" invertwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" heading="0" description="" author="" source="" copyright="" title="" info="" longitude="" latitude="" customnodeid="" datetime="" comment="" tags=""/>
+  </masternode>
+</tour>
